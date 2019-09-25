@@ -18,5 +18,5 @@ Basically forked the shit out of this other page
 well anywayyyyyy
 
 I'm just browsing and trying to figure this out
-   so bear with me w/o judgement
+   so bear with me w/o judging
                <3

@@ -1,6 +1,6 @@
 ---
-title: My Portfolio
+title: Hi, Meet Steve
 name: landing.md
-image: me.jpg
+image: Steve1.jpg
 ---
-Behold the greatest design portfolio the world has ever seen. A truly breathtaking example of the form, showcasing the singular vision of my design work, as well as my savvy career trajectory.
+Scroll down to know more about him!

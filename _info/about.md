@@ -1,7 +1,21 @@
 ---
-title: About Me
+title: About the amazing editor of this page
 name: about.md
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                      Hi
+                                  I'm Sharmin
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                           aka shamim osman
+
+
+                        I made this page myself
+
+                      Jk, actually took a lot of help.
+
+                        Basically forked the shit out of this other page
+
+
+                           well anywayyyyyy
+
+                  I'm just browsing and trying to figure this out so bear with me w/o judgement
+                                                             <3

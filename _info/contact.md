@@ -1,10 +1,10 @@
 ---
-title: Contact
+title: Sharmin Akhter
 name: contact.md
-email: username@fitnyc.edu
-github: username
+email: sayeda.sharmin@hotmail.com
+github: akhtersayeda
 phone: xxx-xxx-xxxx
 twitter: username
-facebook: username
-instagram: username
+facebook: sayeda.sharmin.akhter
+instagram: sharminnakhter
 ---
